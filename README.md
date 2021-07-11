@@ -9,4 +9,7 @@ Capabilities include :
   <li>Border identification & correction.
   <li>Simple GUI using PySide2.
    
- Quality enhanced using - Binary Thresholding, Adaptive Thresholding Mean C, Adaptive Gausian Thresholding Mean C.
+Quality enhanced using - Binary Thresholding, Adaptive Thresholding Mean C, Adaptive Gausian Thresholding Mean C.
+
+Refrence used -
+<li> <a src="https://medium.com/analytics-vidhya/enhance-a-document-scan-using-python-and-opencv-9934a0c2da3d">Medium - Enhance a document using OpenCV<\a>
